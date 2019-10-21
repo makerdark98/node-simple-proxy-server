@@ -1,0 +1,20 @@
+{
+  "name": "simple-proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makerdark98/node-simple-proxy-server.git"
+  },
+  "author": "Min-Uk.Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makerdark98/node-simple-proxy-server/issues"
+  },
+  "homepage": "https://github.com/makerdark98/node-simple-proxy-server#readme"
+}
